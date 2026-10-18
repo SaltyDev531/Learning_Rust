@@ -1,1 +1,0 @@
-/home/salty_dev531/Desktop/Learning_Rust/rust_book/Chapter_1/hello_cargo/hello_cargo/target/debug/hello_cargo: /home/salty_dev531/Desktop/Learning_Rust/rust_book/Chapter_1/hello_cargo/hello_cargo/src/main.rs
