@@ -1,21 +1,22 @@
 # Learn Rust 🦀
 
-Learning Rust from the Rust book - https://doc.rust-lang.org/stable/book
+Learning Rust from the Rust book - <https://doc.rust-lang.org/stable/book>
 
-This is done alongside rustlings - https://rustlings.rust-lang.org/
+This is done alongside rustlings - <https://rustlings.rust-lang.org/>
 
 ## Navigation
 
 To start rustlings:
+
 ```sh
-$ cd rustlings
-$ rustlings
+cd rustlings
+rustlings
 ```
 
 ## Chapters
 
-- [ ] 1. Getting Started
-- [ ] **2. Programming a Guessing Game**
+- [x] 1. Getting Started
+- [x] **2. Programming a Guessing Game**
 - [ ] 3. Common Programming Concepts
 - [ ] 4. Understanding Ownership
 - [ ] 5. Using Structs to Structure Related Data
